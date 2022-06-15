@@ -4,7 +4,15 @@
 
 1. Headers
 
+2. Itálicos, Negritos e Negritos Itálicos
+
+3. Parágrafos com destaque
+
 ## Headers
+
+Sempre que escrevemos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
+
+Os headers tem 6 níveis que são representados pela quantidade de símbolos escritos. Exemplo:
 
 [2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
@@ -22,5 +30,5 @@
 
 
 
-[6. Criando snippets de código](#criando-snippets-de-código)
-
+[6. Criando snippets de código](#criando-snippets-de-código) testando 
+     
